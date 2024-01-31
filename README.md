@@ -25,7 +25,7 @@ Press ***Right Shift*** to open/close the GUI. You can also change this key by o
 - [01/09/2023] - Release
 
 # 📑 Script
-Load the script by copying it from [here](https://github.com/Exunys/AirHub-V2/blob/main/src/Main.lua) or by executing the code below.
+Load the script by copying it from [here](https://github.com/ThatsMyMute/AirHub-V2/blob/main/src/Main.lua) or by executing the code below.
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/AirHub-V2/main/src/Main.lua"))()
 ```
